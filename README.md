@@ -1,4 +1,4 @@
-![Experimental Banner](./experimental-banner.png)
+![Experimental Banner](./docs/experimental-banner.png)
 
 ## Overview
 
